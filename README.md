@@ -25,7 +25,7 @@
 |WEEK|주제|문제|풀이|
 |------|---|---|---|
 |1주차|[스택/큐](https://hello-vvorld.tistory.com/7)|[괄호](https://www.acmicpc.net/problem/9012)<br>[크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)<br>[카드2](https://www.acmicpc.net/problem/2164)<br>[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|[괄호](https://github.com/Kimeunseong/Algorithm-Study/blob/main/week01/%EA%B4%84%ED%98%B8.py)<br>[크레인 인형뽑기 게임](https://github.com/Kimeunseong/Algorithm-Study/blob/main/week01/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.py)<br>[카드2](https://github.com/Kimeunseong/Algorithm-Study/blob/main/week01/%EC%B9%B4%EB%93%9C2.py)<br>[프린터](https://github.com/Kimeunseong/Algorithm-Study/blob/main/week01/%ED%94%84%EB%A6%B0%ED%84%B0.py)|
-|2주차|완전탐색/이분탐색|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)<br>[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)<br>[숫자카드 2](https://www.acmicpc.net/problem/10816)||
+|2주차|완전탐색/이분탐색|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)<br>[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)<br>[숫자카드 2](https://www.acmicpc.net/problem/10816)|연산자 끼워넣기<br>체스판 다시 칠하기<br>숫자카드 2|
 |3주차|BFS/DFS|DFS와 BFS<br>미로 탐색||
 |4주차|진법변환/비트연산|팩토리얼 진법<br>진법 변환<br>비밀지도||
 |5주차|해시|Hashing<br>완주하지 못한 선수<br>전화번호목록||
